@@ -34,9 +34,9 @@ FORCE_MESSAGE = getenv(
     "FORCE_MESSAGE",
     "Halo {mention}!"
     "\n\n"
-    "Anda harus bergabung di Channel/Group terlebih dahulu untuk melihat file yang saya bagikan."
+    "Anda harus bergabung di Channel terlebih dahulu untuk melihat video yang saya bagikan."
     "\n\n"
-    "Silakan Join Ke Channel/Group terlebih dahulu.",
+    "SILAHKAN JOIN KESEMUA CHANNEL DIBAWAH SETELAH JOIN KLIK COBA LAGI.",
 )
 
 ADMINS = [int(x) for x in (getenv("ADMINS").split())]
